@@ -1,0 +1,8 @@
+<?php
+
+header('Cache-Control: max-age=60');
+echo "Foo Varnish Test";
+
+
+
+?>
